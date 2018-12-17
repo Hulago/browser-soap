@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/johniak/browser-soap.git"
+    "url": "https://github.com/Hulago/browser-soap.git"
   },
   "main": "./index.js",
   "directories": {
@@ -25,10 +25,8 @@
     "browser",
     "client"
   ],
-  "licenses": [
-    {
-      "type": "MIT License",
-      "url": "http://www.opensource.org/licenses/mit-license.php"
-    }
-  ]
+  "licenses": [{
+    "type": "MIT License",
+    "url": "http://www.opensource.org/licenses/mit-license.php"
+  }]
 }
